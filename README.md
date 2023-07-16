@@ -1,4 +1,14 @@
 # hair-salon 
+This project was HTML Project with Animation https://youthful-purrfect-spear.glitch.me/![image](https://github.com/howkat23/hair-salon/assets/111094904/041c891c-c131-40b6-be7d-78b5124ea167)
+
+## Available Scripts
+HTML
+
+In the project directory, you can run:
+
+### 'npm start'
+
+
 Online Presence: Having a website allows a hair salon to establish an online presence, making it easier for potential customers to find and learn about the salon's services, location, and contact information.
 Showcasing Services: A website provides an opportunity to showcase the range of services offered by the hair salon, including haircuts, styling, coloring, treatments, and hair extensions. This helps attract customers and gives them an idea of what to expect.
 Booking and scheduling: A website can incorporate features that enable online booking and appointment scheduling. This convenience allows customers to book appointments at their preferred time without the need for phone calls or in-person visits.
